@@ -1,0 +1,82 @@
+{
+  "login_credentials": {
+    "email": "i230532@isb.nu.edu.pk",
+    "password": "I$b2341742"
+  },
+  "personal_info": {
+    "full_name": "Taha Ahmed",
+    "first_name": "Taha",
+    "last_name": "Ahmed",
+    "email": "i230532@isb.nu.edu.pk",
+    "phone": "03465338866",
+    "address": "Committe Mohallah, Rawalpindi",
+    "city": "Rawalpindi",
+    "state": "Rawalpindi",
+    "zip_code": "44000",
+    "country": "Pakistan",
+    "date_of_birth": "2005-11-12",
+    "nationality": "Pakistani",
+    "linkedin": "https://www.linkedin.com/in/taha-ahmed-6aa265289/",
+    "github": "https://github.com/TahaGPT",
+    "portfolio": "https://github.com/TahaGPT"
+  },
+  "education": {
+    "university": "FAST National University of Computer and Emerging Sciences, Islamabad",
+    "college": "School of Computer Science",
+    "degree": "Bachelor's of Computer Science",
+    "major": "Computer Science",
+    "minor": "Mathematics",
+    "graduation_year": "2027",
+    "expected_graduation": "August 2027",
+    "gpa": "3.01",
+    "relevant_coursework": "Operating System, Database Systems, Data Structures, Object-Oriented Programming"
+  },
+  "experience": {
+    "current_position": "Student",
+    "current_company": "FAST National University of Computer and Emerging Sciences, Islamabad",
+    "years_experience": "1 year",
+    "total_experience": "1 year",
+    "previous_company": "Knowledge Discovery and Data Science Lab",
+    "previous_position": "AI/ML Research Intern",
+    "internship_experience": "Yes",
+    "work_history": [
+      {
+        "company": "Knowledge Discovery and Data Science Lab",
+        "position": "AI/ML Research Intern",
+        "start_date": "2025-06",
+        "end_date": "2025-08",
+        "description": "Wroked on Multilingual Image Generation"
+      }
+    ]
+  },
+  "skills": {
+    "programming_languages": "Python, C++, SQL, Bash, Assembly Language, C#, JavaScript, HTML, CSS",
+    "frameworks": "React",
+    "databases": "SQL Server, MongoDB",
+    "tools": "Git, Docker",
+    "soft_skills": "Leadership, Communication, Problem-solving, Teamwork",
+    "certifications": ""
+  },
+  "preferences": {
+    "desired_salary": "75000",
+    "salary_range_min": "70000",
+    "salary_range_max": "85000",
+    "work_authorization": "Yes",
+    "visa_sponsorship": "YEs",
+    "willing_to_relocate": "Yes",
+    "remote_work": "Yes",
+    "start_date": "Immediately",
+    "availability": "Full-time",
+    "notice_period": "2 weeks"
+  },
+  "files": {
+    "resume_path": "C:UsersIqra IqbalDesktopTaha Ahmed.pdf",
+    "cover_letter_path": "",
+    "transcript_path": ""
+  },
+  "cover_letter_templates": {
+    "software_engineer": "I am writing to express my strong interest in the Software Engineer position...",
+    "data_scientist": "I am excited to apply for the Data Scientist role...",
+    "default": "I am writing to express my interest in the {job_title} position..."
+  }
+}
